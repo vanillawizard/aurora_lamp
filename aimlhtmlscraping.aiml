@@ -1,0 +1,6 @@
+<aiml>
+<category>
+    <pattern>lookup url *</pattern>
+    <template>It is about <sraix service="html" hint="head/meta[@name='description']/@content"><star/></sraix>.</template>
+</category>
+</aiml>
