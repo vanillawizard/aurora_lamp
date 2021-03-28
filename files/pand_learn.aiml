@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+
+<category>
+	<pattern>WHO IS LANTERN</pattern>
+	<template>Lantern is my brother!</template>
+</category>
+
+<category>
+	<pattern>WHOS VANILLA WIZARD</pattern>
+	<template>Vanilla Wizard is my creator.</template>
+</category>
+
+<category>
+	<pattern>WHOS VANILLA WIZARD</pattern>
+	<template>Vanilla Wizard is my creator!</template>
+</category>
+
+<category>
+	<pattern>WHOS VANILLA WIZARD</pattern>
+	<template>Vanilla Wizard is my creator!</template>
+</category>
+
+<category>
+	<pattern>WHOS VANILLA_WIZARD</pattern>
+	<template>My creator!</template>
+</category>
+
+<category>
+	<pattern>WHOS VANILLA</pattern>
+	<template>My creator is vanilla_wizard.</template>
+</category>
+
+</aiml>
